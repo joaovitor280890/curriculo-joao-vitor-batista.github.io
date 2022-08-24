@@ -1,2 +1,3 @@
-# devweekgit.github.io
+# curriculojoaovitorbatista.github.io
 Currículo do Jornada Dev 
+
